@@ -5,4 +5,4 @@
 Daenerys-2001/Daenerys-2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-My upcoming public repository: StylePatch-Detecting-AI-generated-style-shifted-NFT-images ！
+My upcoming public repository: Alpha系列持续更新中...
